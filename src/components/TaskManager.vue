@@ -81,11 +81,11 @@ export default {
 </script>
 
 <style scoped>
-/* Elegant Fire UI Styling */
+
 .container {
   width: 80%;
   margin: auto;
-  background: linear-gradient(45deg, #fe9f59, #fdc77b);
+  background: linear-gradient(45deg, #574940, #76bff0);
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
